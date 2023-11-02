@@ -36,8 +36,8 @@
 
 |  Característica |  Información |
 | :------------: | :------------: |
-| Nombre  |  Practica 14: Implementación del poster, título, descripción y valoración de película en detalles. |
-| Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de la aplicación que brinda acceso directo a las peliculas y series del momento. Esta aplicación permite explorar un catálogo de expansión y películas, series.Esta aplicacion el el nombre de "MovieAPP," puede acceder a información detallada sobre cada título y sus fechas de lanzamiento. Además, disfrutar de una integración fluida con tus servicios de transmisión preferidos, permitiéndote ver películas y episodios directamente desde la aplicación. Su interfaz de usuario elegante y fácil navegación garantiza una experiencia intuitiva y gratificante. Para este nuevo avance se realizaron mejoras en la app, se agrego una descripción de cada una de las peliculas con  texto justificado y calificación  y fecha correspondiente con una degradación.   |
+| Nombre  |  Practica 14: Implementación del módulo de actores de Películas y Series de TV. |
+| Descripción  | Esta aplicación fue creada con Flutter con la finalidad de poder mostrar un ejemplo sencillo de la aplicación que brinda acceso directo a las peliculas y series del momento. Esta aplicación permite explorar un catálogo de expansión y películas, series.Esta aplicacion el el nombre de "MovieAPP," puede acceder a información detallada sobre cada título y sus fechas de lanzamiento. Además, disfrutar de una integración fluida con tus servicios de transmisión preferidos, permitiéndote ver películas y episodios directamente desde la aplicación. Su interfaz de usuario elegante y fácil navegación garantiza una experiencia intuitiva y gratificante. Para este nuevo avance se realizaron una implementación del módulo de actores de Películas y Series de TV mejoras en la app, se agrego un scroll horizontal con una lista de cada uno de los actores que participaron el la pelicula.    |
 |  Fecha de Carga | 13/10/23  |
 
 &nbsp;
