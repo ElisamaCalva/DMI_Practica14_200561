@@ -19,14 +19,12 @@
   <img src="./assets/11.png" width="200" alt="Captura de Pantalla 2">
   <img src="./assets/1.png" width="200" alt="Captura de Pantalla 2">
   <img src="./assets/8.png" width="200" alt="Captura de Pantalla 9">
-  <img src="./assets/11.png" width="200" alt="Captura de Pantalla 2">
   <img src="./assets/2.png" width="200" alt="Captura de Pantalla 3">
   <img src="./assets/3.png" width="200" alt="Captura de Pantalla 4">
   <img src="./assets/4.png" width="200" alt="Captura de Pantalla 5">
   <img src="./assets/5.png" width="200" alt="Captura de Pantalla 6">
   <img src="./assets/6.png" width="200" alt="Captura de Pantalla 7">
   <img src="./assets/7.png" width="200" alt="Captura de Pantalla 8">
-  <img src="./assets/8.png" width="200" alt="Captura de Pantalla 9">
   <img src="./assets/9.png" width="200" alt="Captura de Pantalla 10">
 </p>
 
